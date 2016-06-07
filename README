@@ -11,7 +11,7 @@ HOW TO INSTALL IT
 
 1. Get this module in your modules directory and enable it in
 admin/module.
-This module is a custom feature that creates an Event node type
+This module is a custom feature that creates an Event node type.
 
 2. Go to admin/structure/types/manage/event and on the
 "Signup Settings" tab select "Enabled (on by default)" and
